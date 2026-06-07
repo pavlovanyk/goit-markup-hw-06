@@ -59,6 +59,9 @@
   display: flex;
   gap: 16px;
 }
+.footer-social-thumb {
+  margin-bottom: 72px;
+}
 
 .footer-social-link {
   display: flex;
@@ -116,6 +119,9 @@
 .footer-input:focus {
   border-color: #31d0aa;
   outline: transparent;
+}
+.footer-logo-thumb {
+  margin-bottom: 72px;
 }
 
 .footer-btn {
