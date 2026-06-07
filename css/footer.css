@@ -43,10 +43,6 @@
   letter-spacing: 0.02em;
 }
 
-.footer-social-thumb {
-  margin-bottom: 72px;
-}
-
 .social-text,
 .subscribe-text {
   margin-bottom: 16px;
@@ -176,11 +172,9 @@
   }
 
   .footer-input {
-    width: 100%;
-    max-width: 288px;
+    width: 264px;
   }
 }
-
 @media screen and (min-width: 1158px) {
   .footer-section {
     padding: 100px 0;
@@ -197,7 +191,10 @@
   }
 
   .footer-social-thumb {
-    margin-right: 80px;
     margin-bottom: 0;
+  }
+
+  .footer-subscribe {
+    margin-left: auto;
   }
 }
